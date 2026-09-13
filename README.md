@@ -8,7 +8,7 @@
 
 - 최소 Android 버전: Android 8.0 (API 26)
 - 패키지 ID: `com.anotherme.app`
-- 버전: 0.1.0
+- 버전: 0.1.1
 - APK 서명: v2, v3 검증 완료
 
 처음 설치할 때 Android가 요청하면 파일을 내려받은 브라우저에 대해 **출처를 알 수 없는 앱 설치**를 허용해야 합니다.
@@ -30,5 +30,5 @@
 `another-me.apk` SHA-256:
 
 ```text
-A5F47C2BE50555DBC64DF1E88817BBDD774243CD9109BC2101036799E02B9D46
+0EB01234D337B29E6C4E9A7EB9EA472258469E1E8295A1CAB8CEA8E63BD728D9
 ```
